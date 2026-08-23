@@ -23,14 +23,14 @@
     <img src="https://img.shields.io/badge/Equestrian_%26_Wildlife-2D2D2D?style=for-the-badge&logoColor=white" />
   </p>
   <br/>
-  <!-- 5. DARK MINIMAL GITHUB STATS -->
-  <h3>📊 GitHub Overview</h3>
+  <!-- 5. WORKING GITHUB STREAK & ACTIVITY GRAPH -->
+  <h3>📊 GitHub Activity & Streak</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vidushisen&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=c9d1d9" alt="GitHub Stats" width="420" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidushisen&theme=dark&hide_border=true" alt="GitHub Streak" width="420" />
   </p>
   <br/><br/>
-  <!-- 6. MINIMAL VISITOR COUNTER -->
+  <!-- 6. WORKING VISITOR COUNTER BADGE -->
   <p>
-    <img src="https://profile-counter.glitch.me/vidushisen/count.svg" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=vidushisen&color=0d1117&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
