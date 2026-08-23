@@ -14,7 +14,7 @@
     🐺 Passionate about wildlife, <b>horses</b> 🐎 and <b>wolves</b> 🐺
   </p>
   <br/>
-  <!-- 4. INTERESTS & FOCUS BADGES (DARK MONOCHROME) -->
+  <!-- 4. INTERESTS & FOCUS BADGES -->
   <h3>✨ Focus & Interests</h3>
   <p>
     <img src="https://img.shields.io/badge/Business_%26_Finance-111111?style=for-the-badge&logoColor=white" />
@@ -26,27 +26,11 @@
   <!-- 5. DARK MINIMAL GITHUB STATS -->
   <h3>📊 GitHub Overview</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=c9d1d9" alt="GitHub Stats" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vidushisen&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=c9d1d9" alt="GitHub Stats" width="420" />
   </p>
   <br/><br/>
   <!-- 6. MINIMAL VISITOR COUNTER -->
   <p>
-    <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Counter" />
+    <img src="https://profile-counter.glitch.me/vidushisen/count.svg" alt="Visitor Counter" />
   </p>
 </div>
-
-
-<!--
-**vidushisen/vidushisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
