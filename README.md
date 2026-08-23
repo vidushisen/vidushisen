@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/badge/Equestrian_%26_Wildlife-2D2D2D?style=for-the-badge&logoColor=white" />
   </p>
   <br/>
-  <!-- 5. WORKING GITHUB STREAK & ACTIVITY GRAPH -->
-  <h3>📊 GitHub Activity & Streak</h3>
+  <!-- 5. RELIABLE GITHUB STREAK STATS (NON-CLICKABLE) -->
+  <h3>📊 GitHub Activity</h3>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidushisen&theme=dark&hide_border=true" alt="GitHub Streak" width="420" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidushisen&theme=dark&hide_border=true" alt="GitHub Streak" width="450" style="pointer-events: none;" />
   </p>
   <br/><br/>
-  <!-- 6. WORKING VISITOR COUNTER BADGE -->
+  <!-- 6. RELIABLE VISITOR COUNTER -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=vidushisen&color=0d1117&style=for-the-badge" alt="Profile Views" />
   </p>
