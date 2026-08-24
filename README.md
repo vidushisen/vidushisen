@@ -1,9 +1,9 @@
 <div align="center">
-  <!-- 1. WAVING HEADER BANNER WITH YOUR NAME -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hi!%20I%20am%20Vidushi%20%F0%9F%90%8B&fontSize=40&fontColor=ffffff&desc=Commerce%20%E2%80%A2%20Business%20Strategy%20%E2%80%A2%20Fine%20Art%20%E2%80%A2%20Music&descSize=15&descAlignY=62" alt="Hi I am Vidushi Header" width="100%" />
+  <!-- 1. WAVING HEADER BANNER WITH WAVING HAND 👋 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hi!%20I%20am%20Vidushi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&desc=Commerce%20%E2%80%A2%20Business%20Strategy%20%E2%80%A2%20Fine%20Art%20%E2%80%A2%20Music&descSize=15&descAlignY=62" alt="Hi I am Vidushi Header" width="100%" />
   <br/>
   <!-- 2. ANIMATED TYPING SUBTITLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Commerce+Student+%F0%9F%8E%93;Fine+Art+%26+Oil+Painting+%F0%9F%8E%A8;Music+Lover+%F0%9F%8E%B5+%F0%9F%8E%A7;Business+Strategy+%F0%9F%92%BC;Equestrian+%26+Wildlife+Enthusiast+%F0%9F%90%BA+%F0%9F%90%8E" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Hi!+I+am+Vidushi+%F0%9F%91%8B;Commerce+Student+%F0%9F%8E%93;Fine+Art+%26+Oil+Painting+%F0%9F%8E%A8;Music+Lover+%F0%9F%8E%B5+%F0%9F%8E%A7;Business+Strategy+%F0%9F%92%BC;Equestrian+%26+Wildlife+Enthusiast+%F0%9F%90%BA+%F0%9F%90%8E" alt="Typing Text" />
   <br/><br/>
   <!-- 3. GLOWING ACCENT DIVIDER -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
@@ -39,7 +39,7 @@
     </tr>
   </table>
   <br/>
-  <!-- 6. BADGES WALL (WITH MUSIC) -->
+  <!-- 6. BADGES WALL -->
   <h3>✨ Passions & Interest Areas</h3>
   <p>
     <img src="https://img.shields.io/badge/Business_%26_Strategy-0D1117?style=for-the-badge&logo=target&logoColor=white" />
