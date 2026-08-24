@@ -1,10 +1,13 @@
 <div align="center">
-  <!-- 1. WAVING HEADER BANNER WITH WAVING HAND 👋 -->
+  <!-- 1. WAVING HEADER BANNER WITH WAVING HAND GIF -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hi!%20I%20am%20Vidushi%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&desc=Commerce%20%E2%80%A2%20Business%20Strategy%20%E2%80%A2%20Fine%20Art%20%E2%80%A2%20Music&descSize=15&descAlignY=62" alt="Hi I am Vidushi Header" width="100%" />
   <br/>
   <!-- 2. ANIMATED TYPING SUBTITLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=650&lines=Hi!+I+am+Vidushi+%F0%9F%91%8B;Commerce+Student+%F0%9F%8E%93;Fine+Art+%26+Oil+Painting+%F0%9F%8E%A8;Music+Lover+%F0%9F%8E%B5+%F0%9F%8E%A7;Business+Strategy+%F0%9F%92%BC;Equestrian+%26+Wildlife+Enthusiast+%F0%9F%90%BA+%F0%9F%90%8E" alt="Typing Text" />
-  <br/><br/>
+  <p align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" valign="middle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&width=550&lines=Commerce+Student+%F0%9F%8E%93;Fine+Art+%26+Oil+Painting+%F0%9F%8E%A8;Music+Lover+%F0%9F%8E%B5;Business+Strategy+%F0%9F%92%BC;Equestrian+%26+Wildlife+Enthusiast+%F0%9F%90%BA" alt="Typing Text" valign="middle" />
+  </p>
+  <br/>
   <!-- 3. GLOWING ACCENT DIVIDER -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
   <br/><br/>
@@ -17,7 +20,7 @@
     </tr>
   </table>
   <br/><br/>
-  <!-- 5. AESTHETIC CARDS SECTION -->
+  <!-- 5. AESTHETIC CARDS SECTION WITH INTEGRATED GIFS -->
   <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
@@ -31,9 +34,12 @@
       <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px;">
         <h3>🎨 Passions & Hobbies</h3>
         <p align="left">
-          🖼️ <b>Art:</b> Fine Art & Oil Painting<br/>
-          🎵 <b>Music:</b> Music Lover & Explorer<br/>
-          🐎 <b>Equestrian & Wildlife:</b> Horses 🐎 & Wolves 🐺
+          🖼️ <b>Art:</b> Fine Art & Painting 
+          <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30" valign="middle" /><br/>
+          🎵 <b>Music:</b> Music Lover & Explorer 
+          <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25" valign="middle" /><br/>
+          🐎 <b>Wildlife:</b> Horses & Wolves 🐺 
+          <img src="https://media.giphy.com/media/26AHONQ79Ja4x8PtK/giphy.gif" width="35" valign="middle" />
         </p>
       </td>
     </tr>
