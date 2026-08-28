@@ -10,9 +10,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Aesthetic Line GIF" />
 </div>
 <br/>
-<!-- 📜 3. UNIQUE PERSONALIZED CODE-BLOCK -->
-<pre>Somthing about me 
-identity: Vidushi 💙
+<!-- 💙 3. SOMETHING ABOUT ME (HEARTS ON BOTH SIDES) -->
+<h2 align="center" style="color: #89b4fa; font-size: 26px;">💙 Something about me 💙</h2>
+<br/>
+<!-- 📜 4. UNIQUE PERSONALIZED CODE-BLOCK (WITH BLUE FLOWER 🪻) -->
+<pre>
+identity: Vidushi 🪻
 vibe: Strategic thinker by day, Fine artist by night 🎨
 core: Commerce · Financial Strategy · Visual Aesthetics · Music · Equestrian
 motto: "Creating structure with logic, painting life with passion." ✨
@@ -22,15 +25,15 @@ motto: "Creating structure with logic, painting life with passion." ✨
   💫 <b>My Space:</b> A cozy corner where analytical business strategy meets canvas oil paintings.<br/><br/>
   🎨 <b>Artistic Soul:</b> Obsessed with deep contrast, nature, wilderness, and brushstrokes that tell stories.<br/><br/>
   🎧 <b>Mindset:</b> Music on, focus locked, turning complex ideas into clean, elegant outcomes.<br/><br/>
-  💫 <b>Leave a Spark:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
+  ⭐ <b>Leave a Star:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
 </p>
 <br/>
 <div align="center">
   <hr style="border: 0; height: 1px; background: #334155;" />
 </div>
 <br/>
-<!-- 🗂️ 4. DOMAINS & KEY FOCUS AREAS -->
-<h3>🕯️ Pillars of My Journey</h3>
+<!-- 🗂️ 5. DOMAINS & KEY FOCUS AREAS -->
+<h3>🕯️ Domains & Key Focus Areas</h3>
 <br/>
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
@@ -73,7 +76,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
   </tr>
 </table>
 <br/><br/>
-<!-- 🛠️ 5. TECH STACK & TOOLS -->
+<!-- 🛠️ 6. TECH STACK & TOOLS -->
 <div align="center">
   <h3>🛠️ Tech & Tools Stack</h3>
   <br/>
@@ -90,7 +93,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
   </p>
 </div>
 <br/><br/>
-<!-- 📊 6. DYNAMIC LIVE GITHUB STATS & STREAK CARDS -->
+<!-- 📊 7. DYNAMIC LIVE GITHUB STATS & STREAK CARDS -->
 <div align="center">
   <h3>📊 GitHub Stats & Analytics</h3>
   <br/>
@@ -104,14 +107,14 @@ motto: "Creating structure with logic, painting life with passion." ✨
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidushisen&theme=dracula" alt="Languages Card" width="48%" />
   </p>
   <br/>
-  <!-- 🟢 7. LIVE CONTRIBUTION HEATMAP GRAPH -->
+  <!-- 🟢 8. LIVE CONTRIBUTION HEATMAP GRAPH -->
   <h3>📈 Contribution Activity Graph</h3>
   <br/>
   <p align="center">
     <img src="https://ghchart.rshah.org/89b4fa/vidushisen" alt="Vidushi's GitHub Contribution Graph" width="95%" />
   </p>
   <br/><br/>
-  <!-- 🖼️ 8. INTERACTIVE ART ACCORDION -->
+  <!-- 🖼️ 9. INTERACTIVE ART ACCORDION -->
   <details>
     <summary>🎨 <b>Click here to expand Creative Philosophy & Art Gallery</b></summary>
     <br/>
@@ -121,12 +124,12 @@ motto: "Creating structure with logic, painting life with passion." ✨
     </blockquote>
   </details>
   <br/><br/>
-  <!-- 👁️ 9. VISITOR COUNTER -->
+  <!-- 👁️ 10. VISITOR COUNTER -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=vidushisen&color=0f172a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
   <br/><br/>
-  <!-- 💙 10. AESTHETIC WAVING BOTTOM BANNER -->
+  <!-- 💙 11. AESTHETIC WAVING BOTTOM BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&text=✦%20Have%20a%20Wonderful%20Day%20✦&fontSize=20&fontColor=89b4fa&stroke=89b4fa" alt="Footer Banner" width="100%" />
   <p align="center">
     <sub>✦ Crafted with passion & creativity by <b style="color: #89b4fa;">Vidushi</b> ✦</sub>
