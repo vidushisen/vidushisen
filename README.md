@@ -22,7 +22,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
   💫 <b>My Space:</b> A cozy corner where analytical business strategy meets canvas oil paintings.<br/><br/>
   🎨 <b>Artistic Soul:</b> Obsessed with deep contrast, nature, wilderness, and brushstrokes that tell stories.<br/><br/>
   🎧 <b>Mindset:</b> Music on, focus locked, turning complex ideas into clean, elegant outcomes.<br/><br/>
-  ⭐ <b>Leave a Star:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
+  ⭐ <b>Leave a Spark:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
 </p>
 <br/>
 <div align="center">
