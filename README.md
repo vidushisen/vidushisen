@@ -17,10 +17,13 @@ vibe: Strategic thinker by day, Fine artist by night 🎨
 core: Commerce · Financial Strategy · Visual Aesthetics · Music · Equestrian
 motto: "Creating structure with logic, painting life with passion." ✨
 ```
-* 💫 **My Space:** A cozy corner where analytical business strategy meets canvas oil paintings.
-* 🎨 **Artistic Soul:** Obsessed with deep contrast, nature, wilderness, and brushstrokes that tell stories.
-* 🎧 **Mindset:** Music on, focus locked, turning complex ideas into clean, elegant outcomes.
-* ⭐ **Leave a Star:** If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
+<br/>
+<p align="left">
+  💫 <b>My Space:</b> A cozy corner where analytical business strategy meets canvas oil paintings.<br/><br/>
+  🎨 <b>Artistic Soul:</b> Obsessed with deep contrast, nature, wilderness, and brushstrokes that tell stories.<br/><br/>
+  🎧 <b>Mindset:</b> Music on, focus locked, turning complex ideas into clean, elegant outcomes.<br/><br/>
+  ⭐ <b>Leave a Star:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
+</p>
 <br/>
 <div align="center">
   <hr style="border: 0; height: 1px; background: #334155;" />
@@ -87,18 +90,18 @@ motto: "Creating structure with logic, painting life with passion." ✨
   </p>
 </div>
 <br/><br/>
-<!-- 📊 6. DYNAMIC LIVE GITHUB STATS & STREAK CARDS -->
+<!-- 📊 6. DYNAMIC LIVE GITHUB STATS & STREAK CARDS (RELIABLE ERROR-FREE ENDPOINTS) -->
 <div align="center">
   <h3>📊 GitHub Stats & Analytics</h3>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vidushisen&show_icons=true&theme=catppuccin_macchiato&title_color=89b4fa&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&border_color=89b4fa&hide_border=false" alt="Vidushi's GitHub Stats" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vidushisen&theme=dracula" alt="Vidushi's GitHub Profile Details" width="48%" />
     &nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidushisen&theme=catppuccin_macchiato&background=1e1e2e&fire=89b4fa&ring=89b4fa&currStreakNum=ffffff&border=89b4fa" alt="Vidushi's Commit Streak" width="48%" />
   </p>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidushisen&layout=compact&theme=catppuccin_macchiato&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&border_color=89b4fa" alt="Top Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidushisen&theme=dracula" alt="Languages Card" width="48%" />
   </p>
   <br/>
   <!-- 🟢 7. LIVE CONTRIBUTION HEATMAP GRAPH -->
