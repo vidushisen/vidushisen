@@ -11,12 +11,12 @@
 </div>
 <br/>
 <!-- 📜 3. UNIQUE PERSONALIZED CODE-BLOCK -->
-
+<pre>
 identity: Vidushi 💙
 vibe: Strategic thinker by day, Fine artist by night 🎨
 core: Commerce · Financial Strategy · Visual Aesthetics · Music · Equestrian
 motto: "Creating structure with logic, painting life with passion." ✨
-```
+</pre>
 <br/>
 <p align="left">
   💫 <b>My Space:</b> A cozy corner where analytical business strategy meets canvas oil paintings.<br/><br/>
@@ -90,7 +90,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
   </p>
 </div>
 <br/><br/>
-<!-- 📊 6. DYNAMIC LIVE GITHUB STATS & STREAK CARDS (RELIABLE ERROR-FREE ENDPOINTS) -->
+<!-- 📊 6. DYNAMIC LIVE GITHUB STATS & STREAK CARDS -->
 <div align="center">
   <h3>📊 GitHub Stats & Analytics</h3>
   <br/>
