@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- 💙 1. LIGHT SKY-BLUE HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=220&section=header&text=✦%20Hi!%20Vidushi%20here%20✦&fontSize=42&fontColor=89b4fa&desc=Commerce%20•%20Fine%20Art%20•%20Music%20•%20Strategy&descSize=16&descAlignY=65&stroke=89b4fa" alt="Vidushi Header Banner" width="100%" />
+  <!-- 💙 1. LIGHT SKY-BLUE HEADER BANNER WITH 'WELCOME TO MY SMALL SPACE' -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=230&section=header&text=✦%20Hi!%20Vidushi%20here%20✦&fontSize=40&fontColor=89b4fa&desc=✨%20Welcome%20to%20my%20small%20space%20✨&descSize=20&descAlignY=66&stroke=89b4fa" alt="Vidushi Header Banner" width="100%" />
   <br/>
   <!-- ⚡ 2. ANIMATED SKY-BLUE TYPING SUBTITLE -->
   <p align="center">
@@ -22,7 +22,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
   💫 <b>My Space:</b> A cozy corner where analytical business strategy meets canvas oil paintings.<br/><br/>
   🎨 <b>Artistic Soul:</b> Obsessed with deep contrast, nature, wilderness, and brushstrokes that tell stories.<br/><br/>
   🎧 <b>Mindset:</b> Music on, focus locked, turning complex ideas into clean, elegant outcomes.<br/><br/>
-  ⭐ <b>Leave a Spark:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
+  ⭐ <b>Leave a Star:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
 </p>
 <br/>
 <div align="center">
@@ -30,7 +30,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
 </div>
 <br/>
 <!-- 🗂️ 4. DOMAINS & KEY FOCUS AREAS -->
-<h3>🕯️ Pillars of My Journey</h3>
+<h3>🕯️ Domains & Key Focus Areas</h3>
 <br/>
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
