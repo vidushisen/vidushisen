@@ -30,7 +30,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
 </div>
 <br/>
 <!-- 🗂️ 4. DOMAINS & KEY FOCUS AREAS -->
-<h3>🕯️ Domains & Key Focus Areas</h3>
+<h3>🕯️ Pillars of My Journey</h3>
 <br/>
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
