@@ -11,7 +11,7 @@
 </div>
 <br/>
 <!-- 📜 3. UNIQUE PERSONALIZED CODE-BLOCK -->
-<pre>
+<pre>Somthing about me 
 identity: Vidushi 💙
 vibe: Strategic thinker by day, Fine artist by night 🎨
 core: Commerce · Financial Strategy · Visual Aesthetics · Music · Equestrian
