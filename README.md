@@ -15,7 +15,7 @@
 <br/>
 <!-- 📜 4. UNIQUE PERSONALIZED CODE-BLOCK (WITH BLUE FLOWER 🪻) -->
 <pre>
-identity: Vidushi 🪻
+identity: Vidushi ✨
 vibe: Strategic thinker by day, Fine artist by night 🎨
 core: Commerce · Financial Strategy · Visual Aesthetics · Music · Equestrian
 motto: "Creating structure with logic, painting life with passion." ✨
@@ -25,7 +25,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
   💫 <b>My Space:</b> A cozy corner where analytical business strategy meets canvas oil paintings.<br/><br/>
   🎨 <b>Artistic Soul:</b> Obsessed with deep contrast, nature, wilderness, and brushstrokes that tell stories.<br/><br/>
   🎧 <b>Mindset:</b> Music on, focus locked, turning complex ideas into clean, elegant outcomes.<br/><br/>
-  ⭐ <b>Leave a Star:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
+  💫 <b>Leave a Spark:</b> If something here inspires you or brightens your day, leaving a star is the sweetest gesture! ⭐
 </p>
 <br/>
 <div align="center">
@@ -33,7 +33,7 @@ motto: "Creating structure with logic, painting life with passion." ✨
 </div>
 <br/>
 <!-- 🗂️ 5. DOMAINS & KEY FOCUS AREAS -->
-<h3>🕯️ Domains & Key Focus Areas</h3>
+<h3>🕯️Pillars of my Journey</h3>
 <br/>
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
