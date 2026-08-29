@@ -15,10 +15,10 @@
 <br/>
 <!-- 📜 4. UNIQUE PERSONALIZED CODE-BLOCK (WITH BLUE FLOWER 🪻) -->
 <pre>
-identity: Vidushi ✨
-vibe: Strategic thinker by day, Fine artist by night 🎨
-core: Commerce · Financial Strategy · Visual Aesthetics · Music · Equestrian
-motto: "Creating structure with logic, painting life with passion." ✨
+Identity: Vidushi ✨
+Vibe: Strategic thinker by day, Fine artist by night 🎨
+Core: Commerce · Financial Strategy · Visual Aesthetics · Music · Equestrian
+Motto: "Creating structure with logic, painting life with passion." ✨
 </pre>
 <br/>
 <p align="left">
